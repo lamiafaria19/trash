@@ -167,11 +167,11 @@ header{
  }
 .o-col{
 	margin:2px;
-	height: 420px;
+	height: 365px;
 
 	background-color: #1C1718;
 	text-align: center;
-	border: 32px solid #1C1718;
+	border: 10px solid #1C1718;
 	border-radius: 24px;
 }
 .col1-content{
@@ -217,7 +217,7 @@ header{
 	background-repeat: no-repeat;
 }*/
 .col2-content{
-	padding: 40px 20px;
+	padding: 78px 20px;
 	background-color: #D9D9D9;
 	border-radius: 24px;
 }
@@ -241,9 +241,11 @@ header{
 	width:20%;
 }
 .col3-content{
-	padding:35px 10px;
+	padding:10px 10px;
 	background-color: #D9D9D9;
 	border-radius: 24px;
+	text-align: left;
+	
 }
 .col3-content h5{
 	font-family: Fontspringmedium;
